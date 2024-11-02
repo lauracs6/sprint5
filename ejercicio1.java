@@ -1,7 +1,7 @@
 public class Main{
     public static void main(String[] args) {      
 
-        int edad = 13;
+        int edad = 8;
         int ciclo = 0;
         int curso = 0; 
 
